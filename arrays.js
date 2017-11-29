@@ -1,3 +1,9 @@
 var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"];
 
-function addElementToBeg
+function addElementToBeginningOfArray() {
+  
+}
+
+function destructivelyAddElementToBeginningOfArray() {
+  
+}
